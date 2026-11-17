@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MANIKANDAN M
-<h3>Register Number: 212224040183
+<h3>Name: M.MUGUNTHAN
+<h3>Register Number: 212224230171
   
 
 
